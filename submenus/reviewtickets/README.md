@@ -1,4 +1,4 @@
- |[Home](.)| [ReviewTickets](.) | [TechTalk Notes ](../techtalknotes)| [Problem solutions (commit/links) ](../problemsolutions)| [Ap exam plan ](../testprepplan)|
+|[Home](.)| [ReviewTickets](.) | [TechTalk Notes ](../techtalknotes)| [Problem solutions (commit/links) ](../problemsolutions)| [Ap exam plan ](../testprepplan)|
 
 All links to review tickets:
 
