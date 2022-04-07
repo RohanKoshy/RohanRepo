@@ -1,7 +1,7 @@
 |[Home](.)| [ReviewTickets](../reviewtickets) | [TechTalk Notes ](../techtalknotes)| [Problem solutions (commit/links) ](.)| [Ap exam plan ](../testprepplan)|
 
 ## Problem Solutions
-
+ 
 Week 0:
 - 
 

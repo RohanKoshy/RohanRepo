@@ -1,5 +1,5 @@
 |[Home](.)| [ReviewTickets](../reviewtickets) | [TechTalk Notes ](.)| [Problem solutions (commit/links) ](../problemsolutions)| [Ap exam plan ](../testprepplan)|
-
+ 
 # Tech Talk notes
 **- Tech Talk 0:**
 
