@@ -4,7 +4,7 @@
 **- Tech Talk 0:**
 
 - **Overarching concept/notes**: 
-
+ 
 
 - **Questions**:
 
