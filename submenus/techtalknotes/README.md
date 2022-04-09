@@ -289,6 +289,14 @@ for (int i = 0; i < myarr.size()-1; i++)
 | Merge                    | O(nlogn)                  |    0.0244405        |
 | Bubble                   | O(n²)                     |    0.114628752      |
 
+- - **Conclusion**: 
+
+
+From the time data collected from all four sorting algorithm's it is clear that the order of efficiency from greatest to least goes by Merge, Insertion, Bubble, 
+and Selection Sort. This is further supported by the Big O complexity expression for the sorts since both Selection and Bubble run on O(n²), which means run time is exponentially greater than the input, Insertion sometimes can run on O(n), which means the run time is linear with the output, and Merge runs on O(nlogn), meaning runtime is the log of the input.
+
+This further makes sense in terms of the sort that Merge is fastest because by splitting the data structure into individual elements, and only having to sort through smaller data strcutures by splitting up, the sorting would be much faster than all the other sorts which require the entire data structure to be read several times.
+
 
 
 - **Questions**: 
