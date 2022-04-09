@@ -16,11 +16,11 @@ public class BubbleSort extends Sortparent{
         {
             for(int j=0;j<myarr.size()-i-1; j++)
             {
-                if(myarr.get(j+1)>myarr.get(j))
+                if(myarr.get(j)>myarr.get(j+1))
                 {
-                    int temp=myarr.get(j);
-                    myarr.set(j, myarr.get(j+1));
-                    myarr.set(j+1, temp);
+                    int temp=myarr.get(j+1);
+                    myarr.set(j+1, myarr.get(j));
+                    myarr.set(j, temp);
                 }
                 else
                 {

@@ -183,8 +183,6 @@ public class Calculator {
                 case "*":
                 case "/":
                 case "%":
-                case "^":
-                case "sqrt":
                     // While stack
                     // not empty AND stack top element
                     // and is an operator
