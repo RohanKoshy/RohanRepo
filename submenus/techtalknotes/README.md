@@ -9,8 +9,20 @@
 -  Imperitive Paradigm
 -  Object Oriented Paradigm
 -  Algorithims go hand-in-hand with Data Structures for sorting, searching etc.
- 
 
+
+- **Swapper Method**:
+```
+public void swapToLowHighOrder(IntByReference b) {
+        int finalString;
+
+        if (n0 > b.n0) {
+            finalString = b.n0;
+            b.n0 = n0;
+            n0 = finalString;
+        }
+    }
+```
 - **Questions**:
 -How do the data structures we worked with in second trimester such as LinkedLists and arrays, compare to the features of Hashmaps?
 
