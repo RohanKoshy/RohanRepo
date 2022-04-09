@@ -271,6 +271,24 @@ for (int i = 0; i < myarr.size()-1; i++)
             }
 ```
 
+- **Analysis of Sorts**: 
+
+
+- **Big O Complexity**: 
+- Big O Complexity is a combination of the time it take for a program to run(Basically the efficiency of the program)
+- In relation to sorts, the expressions for Big O complexity for each sort determines for a data structure of n length, the runtime scales based on the Big O complexity
+
+
+- - **Data**: 
+| Sorting Algorithm        | Big O complexity          | Time(Seconds)       |
+| ------------------------ |:-------------------------:| -------------------:|
+| Insertion                | (Worst) O(n²) (Best) O(n) | 0.09334066666666667 |
+| Selection                | O(n²)                     |   0.13025025        |
+| Merge                    | O(nlogn)                  |    0.0244405        |
+| Bubble                   | O(n²)                     |    0.114628752      |
+
+
+
 - **Questions**: 
 - How does Quick Sorting compare to the efficiency of these other four sorting algorithms?
 
