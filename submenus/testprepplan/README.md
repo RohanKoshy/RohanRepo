@@ -17,3 +17,14 @@ Ap Test prep plan:
 
 
 - Week of April 26th-May 3rd: Begin working on Practice tests and Practice FRQs
+
+
+**Specific Study Plan (Monday)**
+
+-Tuesday/Thursday: Complete Practice exams in class
+
+-Friday: Review exam and take note of difficult questions for future review
+
+-Monday: Review java syntax( ex: Classes, Variables, Types, Recursive functions)
+
+-Wednesday: Review Object-Oriented Code and Miscillaneaous( ex: Encapsulation, child-parent classes, sorting functions)
