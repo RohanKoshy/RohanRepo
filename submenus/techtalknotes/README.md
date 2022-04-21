@@ -313,15 +313,16 @@ This further makes sense in terms of the sort that Merge is fastest because by s
 
 - **Questions**: 
 - How does Quick Sorting compare to the efficiency of these other four sorting algorithms?
+![IMG-4512](https://user-images.githubusercontent.com/89210808/164510843-25e9ff0b-522c-4125-bc62-bd14a455336f.jpg)
+![IMG-4511](https://user-images.githubusercontent.com/89210808/164510868-c4f4730d-640a-4a1d-b7a7-02c6256b7f4d.jpg)
+![IMG-4510](https://user-images.githubusercontent.com/89210808/164510888-760fca15-c01e-42d0-9b9d-c4f2c5e52ddd.jpg)
+![IMG-4509](https://user-images.githubusercontent.com/89210808/164510895-05ffbc89-8a78-455d-ba58-d231304f7a71.jpg)
 
 
 
-**- Tech Talk 4:**
-
-- **Overarching concept/notes**:
+**- FRQ Practice**
 
 
-- **Questions**:
 
 
 **- Tech Talk 5:**
