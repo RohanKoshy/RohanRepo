@@ -320,9 +320,14 @@ This further makes sense in terms of the sort that Merge is fastest because by s
 
 
 
-**- FRQ Practice**
 
 
+**- FRQ Practice 2**
+
+
+![IMG-4527 (1)](https://user-images.githubusercontent.com/89210808/166494036-2de01ab2-52ce-4492-baf4-7ff3c2b2591f.jpg)
+![IMG-4525 (1)](https://user-images.githubusercontent.com/89210808/166494058-20e39652-5154-4980-8eee-5cf20a510fdd.jpg)
+![IMG-4524 (1)](https://user-images.githubusercontent.com/89210808/166494068-0d9dc8f4-d8c2-45ef-9ee1-b8eaccc85cca.jpg)
 
 
 **- Tech Talk 5:**
